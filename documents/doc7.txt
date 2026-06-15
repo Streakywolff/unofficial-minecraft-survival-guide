@@ -1,0 +1,58 @@
+Basic Minecraft Survival Tips
+ December 3, 2016  Medic  0 Comments advice, minecraft, suggestion, tips
+Minecraft is a pretty old game, but even though I’ve been playing since alpha, I don’t remember everything. Then again, I am the sort of person who doesn’t really play to end game, I play just to survive. Really, the end game doesn’t have much in it anyway. In doing so, I’ve developed a few tricks that I use to do just that. Of course I always eventually settle down and build a shitty house, I’d like to find some diamonds eventually, but for me, it’s the journey that counts.
+
+Your First Days
+First things first, you need to get yourself some stone tools. Before the first sunset, ideally. That’s why the first thing I always do is punch a tree and make myself a wooden sword and pickaxe. I never make anything else out of wood, it’s simply not needed. You’re only using the pickaxe to mine yourself 15 blocks of cobblestone – 2 for a stone sword, 3 for a stone pickaxe and 9 for a furnace. The wooden pickaxe can be used up digging more cobblestone if you want, so you can make an axe and gather some materials for your journey.
+
+Now you’ve got your tools, you need to get some coal. Torches are the most vital part of any Minecrafter’s toolkit. They will protect you at night by keeping mobs from spawning near you.
+
+Depending on where you are, you’ll also want to try and find cows and sheep. You won’t have sheers, so just kill the sheep and make sure you pick up 3 bits of wool – you should make these into a bed as soon as you can, so you can skip to day. Cows are by far the best source of food, as they provide lots of beef, and leather to make armour. If you can’t find cows, pigs work too. Chicken isn’t always good as there is a 50% chance of food poisoning from eating it raw. Cooking your meat in a furnace during the night is a good way to spend your time, and restores more hunger than raw meat.
+
+Of course, armed with only stone tools, night time is always vicious. Hostile mob spawns are far greater than they used to be, even on Easy. If you are playing solo, you can cheat and set the difficulty to Peaceful and remove all hostile mobs. This doesn’t work on hostile wolves though, so watch out. The furnace that you built earlier will be your light source if you didn’t find any coal, as you can burn anything wooden in it for small puffs of light. You can also make charcoal by burning wooden logs (NOT planks) in a furnace, and this will work exactly the same as coal. Coal and Charcoal don’t stack but burn for the same amount.
+
+An easy way to skip to day is by using a bed, a torch and an L-shape pillar of dirt. This simple structure allows you to skip the night. It does so without having to build a shelter or risking being woken up by mobs. It has to be build before sunset though.
+
+The simple bed trick
+The simple bed trick
+General Safety Tips
+Sometimes, you won’t be able to find shelter before sunset. When this happens, there are several things you can do. Some people hide in caves and block them off, but this can be tedious. It’s often easier to just dig your own 2x2x3 cave into a cliff wall, as it’s easier to light and quicker to build. Without a clock, you’ll need to check regularly for daylight.
+
+Another safe spot is a roofed forest. Beneath the trees, it is dark enough for hostile mobs to spawn. But above the trees, it’s actually incredibly safe. No mob is capable of spawning on transparent blocks, so a layer of tree leaves is a perfect place to spend a night. Just… try not to set the forest on fire. If a storm is brewing and there’s lightning, you should head to a cave or use a bed to sleep the storm away.
+
+The safest way to travel long distances though is to travel by ocean. The oceans aren’t as safe as they originally were before 1.7-8, due to deep oceans having a chance to spawn Ocean Temples. If you see such a temple, you should move away, as these are dangerous. The enemies down there are also very strong. They WILL destroy your boat, so move away. Apart from ocean temples, oceans are completely and utterly safe to travel through. Boats are much faster these days as well, and break less easily.
+
+2016-09-25_10-29-40
+
+Villages might seem like safe places to live, but they are actually zombie magnets. Zombies are programmed to chase after villagers, so you will have a zombie at your door for most nights. There’s also a chance of zombie invasions, and iron golems can only do so much to protect a village. It takes a lot of effort to make a village zombie-proof, but they are a good supply of resources like emeralds and enchantments.
+
+Most hostile mobs despawn at midday, so you should be safe to travel after that.
+
+Mining/Building Tips
+I know cobblestone is ugly, but it’s one of the strongest materials to build your house out of. Unless you set your game so fire doesn’t spread and creepers don’t break things. I always recommend building out of cobblestone first, then replacing the cobblestone with a nicer material later. Roofs can be made of wood if you want, as long as you keep them well-lit. You don’t want creepers spawning up there. Half-slabs and stairs can be used as well, as mobs can’t always spawn on half-slab blocks.
+
+2016-09-25_10-36-23
+
+Of course, when you settle down, you’ll want to go mining. It’s not really worth going too deep if you don’t have a house built yet, because you will run out of inventory space. You can always find iron ore veins at and around sea level, but anywhere higher and you’ll only ever find coal.
+
+When it comes to exploring caves though, it’s always good to be careful. I normally dig out my own mineshafts, but if I do go spelunking, I always take a stack of sand with me. I use the sand, or sometimes coloured wool, to mark where I’ve been. Signs are also a good option, as they now stack to 64 now, but they can be expensive and slow to place. Don’t forget your torches!
+
+My last tip is simple. Don’t bother with diamond if you are going to do a LOT of digging, like leveling a mountain or something. Yes, I know diamond pickaxes have a lot more uses than iron or stone, but diamonds are way, way rarer. If you get lucky and have a stack of diamond blocks, then fine, go ahead, but while you’re running low, there’s no point. Stone on the other hand may be a bit slower but it’s a nearly infinite resource. Better to not run out of diamonds, right? After all, diamonds are pretty much the end game, no matter how you play.
+
+Unless you're using a custom world like this
+Unless you’re using a custom world like this
+← Things Overwatch Got RightA Bored Little Volt →
+Medic
+Medic, also known as Arkay, a former death god of a small pocket universe, is the chief editor and main writer of the Daily SPUF, producing most of this site's articles and also just randomly writing stuff.
+
+Leave a Reply
+Your email address will not be published. Required fields are marked *
+
+Comment *
+
+Name *
+
+Email *
+
+Website
+

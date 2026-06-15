@@ -1,0 +1,276 @@
+So I'm not a complete amateur, in that I know all the basic survival stuff - don't dig straight down, get sheep so you can sleep for the night, blah blah blah. But what I'm stuck on is all the stuff that comes after figuring out the basics - tips for easy map traversal, more sophisticated combat potential, not being afraid of nighttime anymore. What are some things I should know, as somebody who usually plays creative mode, that are basic but not "Day One" basic?
+Build an at least 2 high wall around your base, put fences on the very bottom so that spiders can’t climb.
+
+Light up the inside of your base so that every block has a light level of 8 or higher in the night so that no mobs can spawn.
+
+Start a massive sugarcane, cow and a wheat farm inside your safe space asap.
+
+Make yourself a mine for yourself. Make sure to put stairs on the floor and the roof of your staircase to y 12.
+
+For the majority of your day, stay underground and look for diamonds and lava, make sure to increase your render distance so that your crops can still grow when you are underground, don’t strip mine in a straight line, make sure to stay around your base so that your crops can grow while you are mining, make sure to come back up and collect your sugarcane and wheat and feed your cows until you have at least 3 stacks of sugarcane and leather, and you should have diamonds by now, so make a diamond pick and mine 4 obby and make at least 15 bookshelves and craft an enchanting table and surround it with 15 bookshelves.now you should have enough lapis lazuli and more than 30 levels from mining. Now try all your tools and armour and see which enchantments you can get ALWAYS GET THE MOST BOTTOM ENCHANTMENT look out for these enchantments: efficiency 4 for your tools or sharpness 4 or fire aspect 2 or looting 3 for your sword and fortune 3 or efficiency 4 for your pickaxe and make sure to get nothing but protection for your armour. Now you should be at least 3x stronger than you were before and now you don’t have to stay inside all night since you have your own safe space outside to build on.
+
+
+Upvote
+4
+
+Downvote
+
+Award
+
+Share
+
+[deleted]
+•
+6y ago
+After ensuring you don't die at every encounter with a hostile mob - I'm assuming you have iron armour, tools, and weapons - and you have a secure and reliable source of food...
+
+Upgrading all of your gear - enchantments are what separates early game from mid game
+
+That means a reliable source of XP - start researching XP and how to get it on demand
+
+Navigation and distant travel - investigate the Nether and how to set up a Nether Portal lobby
+
+If you have a long range building goal, automating your farms to get a good supply of the blocks you want
+
+
+
+Upvote
+2
+
+Downvote
+
+Award
+
+Share
+
+u/dhfAnchor avatar
+dhfAnchor
+OP
+•
+6y ago
+That makes sense to me - so how does the automated block farm work anyway, if you don't mind my asking?
+
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+[deleted]
+•
+6y ago
+That depends on the block... there's loads of material in the Minecraft Wiki on renewable blocks and farms.
+
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+u/dhfAnchor avatar
+dhfAnchor
+OP
+•
+6y ago
+Fair enough - thanks!
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+Sandrosian
+•
+6y ago
+emoji:iron_golem:
+Exactly what I would do then I would add:
+
+Build a villager breeder
+
+Get a simple iron farm
+
+Get good villager trades for resources and mending books
+
+Get a simple gold farm
+
+Build a bartering farm
+
+Those are the things I would do after the beginning is sorted out.
+
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+u/dhfAnchor avatar
+dhfAnchor
+OP
+•
+6y ago
+Wow, so I really need to keep villages alive... dang. In that case, I may need to relocate my base.
+
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+Sandrosian
+•
+6y ago
+emoji:iron_golem:
+Yes you really should. They are extremely useful for trading especially getting all the valuable enchantments.
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+Praktiskai
+•
+6y ago
+•
+Edited 6y ago
+study up on all animals, perhaps there's a youtube video that gives a description for all of them, mainly cattle, horses/donkeys, tamable mobs, dolphins (give a speed boost), how to breed cattle / with what
+
+for combat
+
+don't spam your attack like a madman. There's an indicator that's fullness determines how strong the attack will be so it's best to attack just before it's empty
+
+while falling, which usually happens after jumping, you critical strike
+
+use a shield. Shields are awesome. Also, you need to hold out your shield a bit early or it won't work, but you can also stop using it a bit early.
+
+not sure if this is optimal but when I fight a skeleton I approach it while sprinting in a spiral, then hit it with a crit, block an arrow with a shield, before it fires as I hold my shield, I jump again, block it midair and critical strike
+
+I guess you should jump before the indicator is full since you'll deal most damage while falling thus it'll take a bit of time until that happens
+
+you can craft golden apples that'll give you a huge defensive boost, though it'll cost you 8 gold so use them only in emergencies. Can also be found in treasure chests like in temples. Oh, and if you find a temple and descend to the floor below it, don't step on the pressure palte. You can mine it, then mine below and loot the TNT as well
+
+food restores hunger and saturation
+
+here's the wiki, scroll down to the board with all foods
+
+1 value is for hunger, the one you can see, the other is for saturation- invisible of course. While hunger can be restored until a limit stockpiling from each food eaten, saturation does not stack. It is used up as a substitute for hunger while there's any left
+
+hunger is used for physical activity and for healing. If you have full or nearly full hunger, you'll regenerate, but if you have a ton of saturation while having full/nearly full hunger, you'll regenerate extremely fast, thus high-saturation foods work like healing items thus eating something like meat will be far better than a watermelon slice for healing, even if your hunger is only 1 chicken nugget away from being full
+
+as you'll see in that chart, the king of food items is a certain mushroom soup. You can craft mushroom soup from a bowl and 2 different (non-nether-exclusive) mushrooms, but if you add a flower in the process it'll also give you a short buff. Adding a yellow small flower or a light blue one will give you a saturation buff thus that soup's total value is the greatest
+
+
+
+Upvote
+2
+
+Downvote
+
+Award
+
+Share
+
+u/dhfAnchor avatar
+dhfAnchor
+OP
+•
+6y ago
+Wow, this is great - thank you!
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+Praktiskai
+•
+6y ago
+doors to create air pockets underwater, if your shield is below 40%, consider making a new one since it breaking could be disastrous.
+
+After you have at least 5 diamonds, it's best to turn them into a pickaxe and an enchantment table, then turn it into a fortune 3 pickaxe and the next diamonds mined will be multiplied by about 2.5. I suggest this because mining diamonds will be a lot more worthwhile with a fortune pickaxe, also faster.
+
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+u/dhfAnchor avatar
+dhfAnchor
+OP
+•
+6y ago
+Makes sense to me - sounds like the first thing I'll need to do is find myself a village and mob-proof it so I can get enchantments.
+
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+Praktiskai
+•
+6y ago
+oh, and you can break leaves and more importantly haybale with a hoe, of which villagers have plenty so this should speed things up. Also consider trapping the villagers so they wouldn't die from zombies
+
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+u/dhfAnchor avatar
+dhfAnchor
+OP
+•
+6y ago
+That's exactly what I was thinking - replace their doors with stone, and put a trap door in their roofs instead.

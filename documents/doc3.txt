@@ -1,0 +1,41 @@
+# Minecraft Survival Guide: First Day
+
+Wherever you spawn in the world, your goal is to gather enough resources before nightfall, when hostile mobs begin to appear.
+
+As soon as you spawn, create a simple landmark to mark your starting location. A tall dirt pillar works well and can help you find your way back if you get lost. Take a moment to look around and identify nearby trees, animals, caves, villages, and other useful resources.
+
+Head toward the nearest trees. If none are visible, choose a direction and begin exploring. While traveling, break tall grass to collect seeds, which can be useful later for farming. Keep an eye out for animals such as cows, pigs, chickens, and sheep, as they will provide food and other valuable resources. If you discover a village, it can provide food, beds, shelter, and useful loot.
+
+Your first priority is obtaining wood. Punch a tree until logs drop, then collect them. Open your inventory and convert the logs into wooden planks. Use four planks to craft a crafting table and place it on the ground. Craft sticks from planks, then use the sticks and planks to create a wooden pickaxe.
+
+With your wooden pickaxe, gather cobblestone by mining stone blocks. Collect at least nineteen cobblestone. This will allow you to craft a furnace, stone pickaxe, stone axe, and stone sword. Stone tools are significantly better than wooden tools and should be your goal as early as possible.
+
+While gathering resources, continue collecting food. Sheep are particularly valuable because they provide wool for a bed as well as meat. Cows provide leather and beef, pigs provide pork, and chickens provide chicken and feathers. Try not to eliminate every animal you encounter; leaving some alive allows future breeding.
+
+You should also gather additional wood before nightfall. Wood is used for tools, fuel, torches, and construction. Having a large supply makes survival much easier.
+
+As the day progresses, begin searching for a suitable shelter location. A simple shelter can be built into the side of a hill, underground, inside a village house, or as a small structure made from dirt or wood. The shelter does not need to be attractive; its purpose is simply to protect you during the first night.
+
+Coal is one of the most important resources to find during your first day. If you locate coal ore, mine it and craft torches. Torches prevent hostile mobs from spawning and allow you to work safely at night. If you cannot find coal, craft a furnace and use it to smelt logs into charcoal. Charcoal functions the same way as coal for crafting torches.
+
+If you have collected three blocks of matching wool from sheep and three wooden planks, craft a bed. Sleeping in a bed skips the night and sets your respawn point. Beds are one of the most valuable items for early survival.
+
+Before sunset, make sure you have the following:
+
+A shelter, stone tools, a food supply, a light source, and preferably a bed.
+
+Once night arrives, stay inside your shelter unless you are prepared to fight hostile mobs. Use the time to organize your inventory, craft useful items, cook food, and begin mining. Mining is an excellent nighttime activity because it allows you to gather valuable resources while remaining relatively safe.
+
+Never dig straight down. Digging directly beneath yourself can cause you to fall into lava, caves, or deep drops. Instead, dig in a staircase pattern whenever you need to descend underground.
+
+If you have a furnace, cook any raw meat you collected during the day. Cooked food restores more hunger than raw food and is safer to eat. Continue crafting torches and lighting your shelter to prevent mobs from spawning nearby.
+
+If you are unable to craft a bed, spend the night mining or improving your shelter. Coal, iron, and additional stone are all useful resources to collect. Keep enough torches with you to maintain visibility and prevent hostile mob spawns.
+
+When morning arrives, you should have basic stone tools, a secure shelter, a source of food, and a supply of torches. From there you can begin exploring caves, gathering iron, expanding your base, creating farms, and preparing for future adventures.
+
+Villages make excellent early-game bases because they provide beds, shelter, food, villagers for trading, and often useful loot. If you find one, consider settling there temporarily while gathering resources.
+
+As you continue progressing, prioritize obtaining iron tools and armor. Iron allows access to stronger equipment and opens the path toward more advanced resources such as redstone, gold, diamonds, and enchantments.
+
+By the end of the first day, survival is the primary objective. Once you have secured food, shelter, light, and tools, you have successfully established yourself in the world and can begin working toward long-term goals.

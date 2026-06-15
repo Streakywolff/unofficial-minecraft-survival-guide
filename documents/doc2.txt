@@ -1,0 +1,162 @@
+#1Feb 2, 2023
+allyourbasesaregone
+View User Profile
+View Posts
+Send Message
+View allyourbasesaregone's Profile
+Blaze Extinguisher
+Join Date: 6/3/2018
+Posts: 4,719
+Minecraft: WonderOrder
+Xbox: Outsider5039
+Discord: order0567
+PMC: EvasiveSpirit
+-Use chests in boats in the end for fighting the dragon, it can't delete them as they are entities, not blocks
+-Place slabs or stairs in the water rows of your farms. You have no risk to fall in water and jump up on your crops this way
+-An oak tree placed in a 2 deep hole almost always grows into a big tree
+
+-Doors are a good way to restrict arthropod mobs and give breathing pockets underwater
+-A lightning rod still works when floating in the sky
+-Carefully remove the amethyst and calcite around budding amethyst to max out your ROI on shards
+-Cobblestone wall is superior to fencing for fences and windows, but not if it goes up to the ceiling. Slab your ceilings
+-Placing an overhanging roof necessitates placing a two high stair/fence wall near or on the ground to keep out mobs.
+-Endermen prefer to teleport near you than right next to you, you can use this to your advantage in cramped areas.
+
+#2Feb 3, 2023
+allyourbasesaregone
+View User Profile
+View Posts
+Send Message
+View allyourbasesaregone's Profile
+Blaze Extinguisher
+Join Date: 6/3/2018
+Posts: 4,719
+Minecraft: WonderOrder
+Xbox: Outsider5039
+Discord: order0567
+PMC: EvasiveSpirit
+Use shovels to mark paths in the woods, but axes stripping bark works well too - except you can't remove the strips as you would remove grass path by replacing the block.
+
+#3Feb 6, 2023
+Humbe76
+View User Profile
+View Posts
+Send Message
+View Humbe76's Profile
+Coal Miner
+Join Date: 2/4/2023
+Posts: 140
+- Creating villager librarians and breaking the lectern over and over again until they will trade you the enchanting book you need most is way overpowered. (And a bit tedious). Early Fortune III and Mending for the win, so you don't need that many diamonds. Combine with an XP farm and you can get really good gear early on with little risks taken.
+
+- If you bring villagers to your base and make job blocks or beds for them, it's all too easy to trigger a raid in your base.
+
+- While caving may get you progress fast, strip mining and avoiding them gives you consistent resources with low risk, and a lot of building blocks to build stuff with.
+
+- A lot of mobs that survive daylight still need darkness to spawn. Lighting up the area around your base goes a long way to keeping you safe. For instance, illager patrols only spawn in low light.
+
+- Always add torches to one side of a cave when moving inwards, so if you end up exploring a labyrinth, you can find your way out by following the path where the torches are on the other side.
+
+#4Feb 8, 2023
+allyourbasesaregone
+View User Profile
+View Posts
+Send Message
+View allyourbasesaregone's Profile
+Blaze Extinguisher
+Join Date: 6/3/2018
+Posts: 4,719
+Minecraft: WonderOrder
+Xbox: Outsider5039
+Discord: order0567
+PMC: EvasiveSpirit
+Quote from Humbe76»
+
+
+For instance, illager patrols only spawn in low light.
+
+
+Nope, patrols can spawn in broad daylight and I frequently witness this in my worlds and servers, especially in oceans.
+
+#5Feb 9, 2023
+Humbe76
+View User Profile
+View Posts
+Send Message
+View Humbe76's Profile
+Coal Miner
+Join Date: 2/4/2023
+Posts: 140
+Quote from allyourbasesaregone»
+
+Nope, patrols can spawn in broad daylight and I frequently witness this in my worlds and servers, especially in oceans.
+
+
+Feels like that in my games too, but the internet said it required low light somewhere, so I figured they likely marched into the light before I spotted them. But now that I've torched up quite a bit around my camp, I do feel like I see them further away than before. Often appearing at the edge of where I've put torches.
+
+#6Feb 9, 2023
+allyourbasesaregone
+View User Profile
+View Posts
+Send Message
+View allyourbasesaregone's Profile
+Blaze Extinguisher
+Join Date: 6/3/2018
+Posts: 4,719
+Minecraft: WonderOrder
+Xbox: Outsider5039
+Discord: order0567
+PMC: EvasiveSpirit
+Quote from Humbe76»
+
+Feels like that in my games too, but the internet said it required low light somewhere, so I figured they likely marched into the light before I spotted them. But now that I've torched up quite a bit around my camp, I do feel like I see them further away than before. Often appearing at the edge of where I've put torches.
+
+
+
+
+
+Maybe they mean low artificial light. They likely ignore natural light for the purpose of spawning.
+How else did they spawn in the middle of the ocean, on the seafloor? I think the wiki is wrong here.
+
+I know that when I had an illager outpost as a base, I tried lighting it up to keep pillagers from spawning, and it succeeded to make them spawn further from the tower.
+
+Last edited by allyourbasesaregone: Feb 9, 2023
+#7Feb 10, 2023
+Humbe76
+View User Profile
+View Posts
+Send Message
+View Humbe76's Profile
+Coal Miner
+Join Date: 2/4/2023
+Posts: 140
+Quote from allyourbasesaregone»
+
+
+
+Maybe they mean low artificial light. They likely ignore natural light for the purpose of spawning.
+How else did they spawn in the middle of the ocean, on the seafloor? I think the wiki is wrong here.
+
+I know that when I had an illager outpost as a base, I tried lighting it up to keep pillagers from spawning, and it succeeded to make them spawn further from the tower.
+
+
+Yeah. I think they ignore sun but need low artificial light. Two different categories in game according to the debug data
+
+#8Feb 10, 2023
+allyourbasesaregone
+View User Profile
+View Posts
+Send Message
+View allyourbasesaregone's Profile
+Blaze Extinguisher
+Join Date: 6/3/2018
+Posts: 4,719
+Minecraft: WonderOrder
+Xbox: Outsider5039
+Discord: order0567
+PMC: EvasiveSpirit
+Quote from Humbe76»
+
+Yeah. I think they ignore sun but need low artificial light. Two different categories in game according to the debug data
+
+
+Yes, that's what our evidences point to but is notably not what the wikis say. And I'm not about to make an account there to update that one de
