@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< ours
 doc1.txt – Reddit Minecraft survival discussion
 doc2.txt – Minecraft forum survival tips
 doc3.txt – Minecraft mining and exploration guide
@@ -102,4 +102,4 @@ How do I find food early game?
 sucessfull, it retrieved information revelent to finding food.
 =======
 # unofficial-minecraft-survival-guide
->>>>>>> 99f6bde3f903ac272af0a3145d59a9fa492a80b3
+>>>>>>> theirs
